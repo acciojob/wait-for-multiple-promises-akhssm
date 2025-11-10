@@ -3,7 +3,7 @@
 const output = document.getElementById("output");
 
 output.innerHTML = `
-  <tr>
+  <tr id="loading">
     <td colspan="2" class="text-center fw-bold">Loading...</td>
   </tr>
 `;
